@@ -1,0 +1,10 @@
+asgiref
+Django
+Pillow
+sqlparse
+django-braces
+django-embed-video
+pymemcache
+django-debug-toolbar
+redis
+django-redisboard
